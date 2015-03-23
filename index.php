@@ -8,7 +8,7 @@
             <?php 
                 $rand = rand(1,6);
                 
-                echo $rand;
+                echo 'You rolled a: '.$rand;
             ?>
     </body>
 </html>
