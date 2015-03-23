@@ -19,5 +19,7 @@
                 
                 echo 'You rolled a: <img src="img/'.$rand.'.jpg" />';
             ?>
+
+            <button onclick="location.reload()">Try again</button>
     </body>
 </html>
